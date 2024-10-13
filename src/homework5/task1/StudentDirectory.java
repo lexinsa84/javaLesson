@@ -1,4 +1,4 @@
-package task1;
+package homework5.task1;
 
 import java.util.*;
 

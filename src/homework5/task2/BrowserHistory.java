@@ -1,4 +1,4 @@
-package task2;
+package homework5.task2;
 
 import java.util.Deque;
 import java.util.LinkedList;

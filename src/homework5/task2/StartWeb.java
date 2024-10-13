@@ -1,4 +1,4 @@
-package task2;
+package homework5.task2;
 
 public class StartWeb {
     public static void main(String[] args) {
